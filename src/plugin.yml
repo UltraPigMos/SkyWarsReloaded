@@ -1,6 +1,6 @@
-name: Skywars
+name: PBSkywars
 main: com.walrusone.skywarsreloaded.SkyWarsReloaded
-version: 5.3.4
+version: 6.0.0
 api-version: 1.13
 website: https://gaagjescraft.net/
 author: GaagjesCraft Network Team (GCNT)
